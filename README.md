@@ -1,6 +1,5 @@
 # Đánh Giá Alpha (Alpha Evaluation)
 
-Dự án này chứa mã nguồn và dữ liệu để đánh giá hiệu suất của một alpha (chiến lược giao dịch).
 
 ## Cấu trúc thư mục
 
